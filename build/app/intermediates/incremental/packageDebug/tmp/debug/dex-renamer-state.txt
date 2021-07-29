@@ -1,0 +1,4 @@
+#Thu Jul 29 19:29:21 EET 2021
+base.0=/Volumes/MacData/ecommerce_ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
